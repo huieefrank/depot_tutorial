@@ -30,3 +30,4 @@ sphinx/*
 sphinx_test/*
 config/ultrasphinx/*.conf
 *.swp
+学习笔记/*
